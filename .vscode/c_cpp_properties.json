@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/",
+                "/usr/include/c++/13",
+                "/usr/local/include/open3d_cuda/include",
+                "/usr/local/include/open3d_cuda/include/open3d/3rdparty",
+                "/home/kenji/dotenv-cpp/include/laserpants/dotenv",
+                "/usr/include/x86_64-linux-gnu/c++/13",
+                "/usr/include/jsoncpp"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
